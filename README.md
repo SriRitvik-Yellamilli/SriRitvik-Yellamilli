@@ -1,5 +1,5 @@
 # 💫 About Me:
- # **`SriRitvik Yellamilli`**<br><br> ## `Aspiring Developer` | **High School Sophomore** | *Passionate Learner*<br><br>---<br><br>### 👋 **About Me**<br><br>- 🎓 I’m a **sophomore** in high school with a passion for **coding** and **technology**<br>- 🚀 I’m interested in: *Web development*, *Machine Learning*, *Open Source*<br>- 📫 Reach me: ysriritvik@gmail.com<br>- 🌟 Quote: *"Light shines its brightest amidst the surrounding darkness."*<br><br>---<br><br>### 🎯 **Current Projects**<br><br>- **`Potential App`** – Potential App...<br>- **`Hacking Hackathon`** – An app for a hackathon.<br>
+💫 About Me:<br># SriRitvik Yellamilli<br><br>Aspiring Developer | High School Sophomore | Passionate Learner<br><br>---<br><br>👋 About Me<br><br>- 🎓 I’m a sophomore in high school with a passion for coding and technology<br>- 🚀 I’m interested in: Web development, Machine Learning, Open Source<br>- 📫 Reach me: ysriritvik@gmail.com<br>- 🌟 Quote: "Light shines its brightest amidst the surrounding darkness."<br><br>---<br><br>🎯 Current Projects<br><br>- Potential App – Potential App...<br>- Hacking Hackathon – An App for a Hackathon
 
 
 # 💻 Tech Stack:
