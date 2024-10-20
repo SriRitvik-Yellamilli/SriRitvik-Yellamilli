@@ -17,8 +17,7 @@ I'm a high school sophomore driven by a deep passion for **coding** and **techno
 
 ### 🎯 Current Projects  
 
-- **Potential App**: Potential App...
-- **Hacking Hackathon**: An App for a Hackathon  
+- **Ecolyze**: A Potential App...
 
 ---
 
