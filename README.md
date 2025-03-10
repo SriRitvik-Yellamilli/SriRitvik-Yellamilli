@@ -6,7 +6,7 @@
 
 ### 👋 Welcome to My Profile  
 
-I'm a high school sophomore driven by a deep passion for **coding** and **technology**. With a strong interest in **web development**, **machine learning**, and contributing to **open-source** projects, I'm constantly exploring new challenges to expand my skill set and make a meaningful impact.  
+I'm a high school sophomore, what else can I say?  
 
 - 🎓 **Education**: High School Sophomore  
 - 🚀 **Interests**: Full-Stack Development, Artificial Intelligence, Open Source Collaboration  
@@ -18,6 +18,7 @@ I'm a high school sophomore driven by a deep passion for **coding** and **techno
 ### 🎯 Current Projects  
 
 - **Ecolyze**: A Potential App...
+- **Pine**: Me like Pineapple...
 
 ---
 
